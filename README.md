@@ -1,14 +1,7 @@
-# Linux-Project1
-
-###### tags: `linux`
-
 > 第9組 
 > 111522030 李孟潔
 > 111522061 鄭伊涵
 > 111526003 張友安
-
-## Outline
-[ToC]
 
 ## Enviroment
 * VMware
